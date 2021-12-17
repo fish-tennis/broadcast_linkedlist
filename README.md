@@ -1,6 +1,8 @@
 # broadcast_linkedlist
 nonblocking broadcast chan
 
+利用close(chan)的特性,来实现广播效果
+
 ## example
 ```go
 b := NewBroadcastLinkedList()
