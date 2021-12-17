@@ -28,3 +28,8 @@ for i := 0; i < 100; i++ {
     b.Broadcast(i+1)
 }
 ```
+
+##其他开源库
+https://github.com/dustin/go-broadcast
+
+https://github.com/teivah/broadcast

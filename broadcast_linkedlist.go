@@ -1,6 +1,8 @@
 package broadcast_linkedlist
 
-import "sync"
+import (
+	"sync"
+)
 
 // 广播链表
 type BroadcastLinkedList struct {
